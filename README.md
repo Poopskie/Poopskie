@@ -4,8 +4,8 @@ Heyo! I'm Jackie, a gamer who spends his time detoxing dopamine (yea i know coun
 
 
 Bae:
+![worth](https://user-images.githubusercontent.com/84027910/153732602-7871c1a2-5067-488e-8c83-d37569b25132.jpg)
 
-<a href = "https://user-images.githubusercontent.com/84027910/153732417-6ac48ac2-4044-4b73-b7e6-9eb6603f12ec.jpg"></a>
 
 
 
