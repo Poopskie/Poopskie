@@ -1,4 +1,14 @@
-### Hi there 👋
+# Jackie Cai
+Heyo! I'm Jackie, a gamer who spends his time detoxing dopamine (yea i know counter intuitive). I spend my time working on random projects for fun, and wake up early while its nice and quiet. You can find me working on film or out running, excited to see you around! :o
+
+
+
+Bae:
+
+<a href = "https://user-images.githubusercontent.com/84027910/153732417-6ac48ac2-4044-4b73-b7e6-9eb6603f12ec.jpg"></a>
+
+
+
 
 <!--
 **Poopskie/Poopskie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
