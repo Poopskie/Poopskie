@@ -2,8 +2,8 @@
 Heyo! I'm Jackie, a gamer who spends his time detoxing dopamine (yea i know counter intuitive). I spend my time working on random projects for fun, and wake up early while its nice and quiet. You can find me working on film or out running, excited to see you around! :o
 
 
-
-Bae:
+(right forgot to mention I am a weeb)
+Best girl:
 
 <br>
 
