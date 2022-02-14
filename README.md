@@ -4,9 +4,8 @@ Heyo! <b>I'm Jackie</b>, a gamer who spends his time detoxing dopamine (yea i kn
 
 (right forgot to mention I am a weeb)
 
-Best girl:
+### Best girl:
 
-<br>
 
 ![worth](https://user-images.githubusercontent.com/84027910/153732602-7871c1a2-5067-488e-8c83-d37569b25132.jpg)
 
