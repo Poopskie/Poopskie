@@ -1,5 +1,5 @@
 # Jackie Cai
-Heyo! <b>I'm Jackie</b>, a gamer who spends his time detoxing dopamine (yea i know counter intuitive). 
+Heyo! <b>I'm Jackie</b>, a gamer who spends his time detoxing dopamine (yea i know, counter intuitive). 
 
 I spend my time working on random projects for fun, and wake up early while its nice and quiet. You can find me working on film or out running, excited to see you around! :o
 
