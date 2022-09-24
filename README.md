@@ -5,14 +5,15 @@ I spend my time working on random projects for fun, and wake up early while its 
 
 Full disclosure, I love the way flowcharts flow.
 
-
+<!--
 (right forgot to mention I am a weeb)
+
 
 ### Best girl:
 
 
 ![worth](https://user-images.githubusercontent.com/84027910/153732602-7871c1a2-5067-488e-8c83-d37569b25132.jpg)
-
+-->
 
 # Coding Skills:
 
