@@ -16,7 +16,9 @@ In my free time, I can be found working on random projects for fun or sleeping a
 # Coding Skills:
 
 Languages: Python (lover), C++ (once in a while), C# (when needed), HTML, TSX
+
 Web Dev experience: Next.js, Flask, React, Jinja2 (django)
+
 App Dev experience: Windows Presentation Foundation, Unity
 
 
