@@ -1,9 +1,7 @@
 # Jackie Cai
-Heyo! <b>I'm Jackie</b>, a gamer who spends his time detoxing dopamine (yea i know, counter intuitive). 
+Heyo! <b>I'm Jackie</b>, a person who likes creating things, especially in the boundary fields of technology.
 
-I spend my time working on random projects for fun, and wake up early while its nice and quiet. You can find me working on film or out running, excited to see you around! :o
-
-Full disclosure, I love the way flowcharts flow.
+In my free time, I can be found working on random projects for fun or sleeping a lot.
 
 <!--
 (right forgot to mention I am a weeb)
@@ -17,11 +15,9 @@ Full disclosure, I love the way flowcharts flow.
 
 # Coding Skills:
 
-- Python Abuser
-- Flask user
-- C# wpf developer
-- C++ amateur
-- Html + Css noobie
+Languages: Python (lover), C++ (once in a while), C# (when needed), HTML, TSX
+Web Dev experience: Next.js, Flask, React, Jinja2 (django)
+App Dev experience: Windows Presentation Foundation, Unity
 
 
 <!--
